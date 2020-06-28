@@ -1,6 +1,8 @@
-# duniapay
+# Duniapay
 
-A new Flutter application.
+![DuniaPay Home](https://oniicode.netlify.app/images/works/duniapay.jpg)
+
+A UI implementation app for DuniaPay.
 
 ## Getting Started
 
