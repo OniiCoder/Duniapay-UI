@@ -5,7 +5,7 @@
 A UI implementation app for DuniaPay.
 
 ### Feel free to reach me via my website anytime:
-[Oniicode](https://oniicode.netlify.app/)
+[Visit Oniicode](https://oniicode.netlify.app/)
 
 ## Getting Started
 
